@@ -11,7 +11,7 @@
 
 ## :rocket:  Sobre o projeto
 
-O projeto tinha como objetivo desenvolver uma aplicação com rotas para criar, atualizar e deletar um projeto com Id, Titulo e tarefas. Também era necessário incluir novas tarefas e criar um middleware para contar o número de requisiçes e verificar se o projeto existe. Para fixar conhecimento eu adicionei rotas para editar e deletar tarefas de um projeto especifico.
+O projeto tinha como objetivo desenvolver uma aplicação com rotas para criar, atualizar e deletar um projeto com Id, Titulo e Tarefas. Também era necessário incluir novas tarefas e criar um middleware para contar o número de requisiçes e verificar se o projeto existe. Para fixar conhecimento eu adicionei rotas para editar e deletar tarefas de um projeto especifico.
 
 ## :rocket: Tecnologias
 
