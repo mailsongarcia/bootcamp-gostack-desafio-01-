@@ -1,12 +1,12 @@
 <h1 align="center">
-    <strong>Bootcamp GoStack - Desafio 1</strong>
+    <strong>Bootcamp GoStack - Desafio 01</strong>
     <br />
     <br />
     <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
 </h1>
 
 <p align="center">
-  Resolução do desafio 1 do bootcamp GoStack da RocketSeat
+  Resolução do desafio primeiro do bootcamp GoStack da RocketSeat.
 </p>
 
 ## :rocket:  Sobre o projeto
