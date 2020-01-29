@@ -1,87 +1,42 @@
-# Project Title
+<h1 align="center">
+    <strong>Bootcamp GoStack - Desafio 1</strong>
+    <br />
+    <br />
+    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
+</h1>
 
-One Paragraph of project description goes here
+<p align="center">
+  Resolução do desafio 1 do bootcamp GoStack da RocketSeat
+</p>
 
-## Getting Started
+## :rocket:  Sobre o projeto
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+O projeto tinha como objetivo desenvolver uma aplicação com rotas para criar, atualizar e deletar um projeto com Id, Titulo e tarefas. Também era necessário incluir novas tarefas e criar um middleware para contar o número de requisiçes e verificar se o projeto existe. Para fixar conhecimento eu adicionei rotas para editar e deletar tarefas de um projeto especifico.
 
-### Prerequisites
+## :rocket: Tecnologias
 
-What things you need to install the software and how to install them
 
-```
-Give examples
-```
+-  [Node.js][nodejs]
+-  [Express](https://expressjs.com/)
+-  [nodemon](https://github.com/remy/nodemon)
+-  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
-### Installing
+## :rocket:  Para testar o projeto
 
-A step by step series of examples that tell you how to get a development env running
+Faça o clone do repositório
+```bash
+# Clone o repositório
+$ git clone https://github.com/mailsongarcia/bootcamp-gostack-desafio-01-
 
-Say what the step will be
+# Entre no repositório
+$ cd bootcamp-gostack-desafio-01
 
-```
-Give the example
-```
+# Install dependencies
+$ yarn install
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+# Start the backend server
+$ yarn dev
 
 ```
-Give an example
-```
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+Teste a aplicação em [http://localhost:3000](http://localhost:3000)
