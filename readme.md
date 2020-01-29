@@ -19,7 +19,6 @@ O projeto tinha como objetivo desenvolver uma aplicação com rotas para criar, 
 -  [Node.js][nodejs]
 -  [Express](https://expressjs.com/)
 -  [nodemon](https://github.com/remy/nodemon)
--  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 ## :rocket:  Para testar o projeto
 
